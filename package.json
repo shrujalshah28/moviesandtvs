@@ -1,0 +1,27 @@
+{
+  "name": "moviesandtvs",
+  "version": "1.0.0",
+  "description": "Information about Movies and  TVs.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrujalshah28/moviesandtvs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "movies",
+    "tvshows",
+    "omdb"
+  ],
+  "author": "Shrujal Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrujalshah28/moviesandtvs/issues"
+  },
+  "homepage": "https://github.com/shrujalshah28/moviesandtvs#readme"
+}

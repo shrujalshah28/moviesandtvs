@@ -1,0 +1,19 @@
+{
+  "name": "moviesandtvs-server",
+  "version": "1.0.0",
+  "description": "Backend for MoviesAndTvs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shrujal Shah",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2",
+    "trakt.tv": "^5.1.0",
+    "trakt.tv-cached": "^1.0.0",
+    "trakt.tv-images": "^5.1.0"
+  }
+}
